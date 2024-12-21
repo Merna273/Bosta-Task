@@ -65,7 +65,7 @@ Ensure you have the following installed on your system:
 
 ## Clone the Repository
 
-git clone <repo url>
+git clone (repository-url)
 
 ## Start the Development Server
 
