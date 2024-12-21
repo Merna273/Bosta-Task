@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bosta-Task/static/css/main.3091f82d.css",
+    "main.js": "/Bosta-Task/static/js/main.9e7b89a0.js",
+    "static/media/logo.svg": "/Bosta-Task/static/media/logo.0ae0bd6d4e4daca002f29584a6c56418.svg",
+    "static/media/logoAr.svg": "/Bosta-Task/static/media/logoAr.76fe42f50025acd76fe0f57ba80a6edf.svg",
+    "index.html": "/Bosta-Task/index.html",
+    "main.3091f82d.css.map": "/Bosta-Task/static/css/main.3091f82d.css.map",
+    "main.9e7b89a0.js.map": "/Bosta-Task/static/js/main.9e7b89a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3091f82d.css",
+    "static/js/main.9e7b89a0.js"
+  ]
+}
