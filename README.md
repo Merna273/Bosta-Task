@@ -9,11 +9,11 @@ This project is designed to track orders by providing a progress bar and localiz
 
 ## Date and Timestamp Handling
 
-Timestamps are interpreted based on their full date and time.
+#### Timestamps are interpreted based on their full date and time.
 
 Example: 2024-04-06T21:59:59.999Z is considered the 7th of April 2024 as it represents the last second of the 6th of April.
 
-Time Zone Conversion
+#### Time Zone Conversion
 
 All times are provided in UTC.
 
@@ -25,9 +25,9 @@ Only orders with transit events are processed and displayed.
 
 ## Language Switching
 
-All API responses are in English.
+#### All API responses are in English.
 
-Language switching affects only the static parts of the application (e.g., labels, buttons).
+Language switching affects only the static parts of the application (e.g., labels, buttons) as the details fetched from the API are only in English.
 
 ## Progress Bar Assumptions
 
@@ -52,18 +52,6 @@ switch (currentStage) {
     progress = 0;
 }
 
-### Notes
 
-The implementation is built based on the above assumptions. Any additional requirements or scenarios might require updates to the logic and assumptions.
-
-For a fully accurate progress bar, examples of tracking numbers covering all states would be beneficial.
-
-Future Improvements
-
-Incorporate support for multiple languages for dynamic API content.
-
-Enhance progress bar logic with additional stages as more tracking states become available.
-
-Allow users to manually toggle between UTC and local time display.
 
 
