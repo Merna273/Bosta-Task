@@ -6,7 +6,6 @@ Shipment Tracking Page
 
 This project is designed to track orders by providing a progress bar and localized time details. Below are the key assumptions and implementation details:
 
-# Assumptions
 
 ## Date and Timestamp Handling
 
