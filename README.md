@@ -51,7 +51,24 @@ switch (currentStage) {
   default:
     progress = 0;
 }
+# Setup and Running the Application
 
+To set up and run this React.js application, follow these steps:
 
+## Prerequisites
+
+Ensure you have the following installed on your system:
+
+1. Node.js (v14 or higher)
+
+2. npm 
+
+## Clone the Repository
+
+git clone <repo url>
+
+## Start the Development Server
+
+Using npm: npm start
 
 
